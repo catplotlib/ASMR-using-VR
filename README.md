@@ -1,5 +1,8 @@
 ## ASMR Using VR
-ASMR Using VR is a virtual reality (VR) project that aims to create a relaxing ASMR experience for users. ASMR stands for Autonomous Sensory Meridian Response, which is a tingling sensation that some people experience in response to certain stimuli, such as whispering, tapping, or soft sounds. The project combines VR technology with ASMR triggers to create a unique and immersive experience.
+
+The ASMR Using VR project aims to create a relaxing and immersive experience for users by combining an interactive game environment with calming scenes, synchronized ASMR triggers, and innovative technology. One of the key features of this project is the use of an ultrasonic sensor to control the character motion. This allows users to interact with the game environment in a natural and intuitive way, using hand gestures and movements to navigate through the scene. This creates a more immersive experience, as users feel like they are actually part of the environment rather than simply observing it.
+
+In addition to the ultrasonic sensor, the project also uses TriniusVR to stimulate VR on phones via USB connection. This allows users to experience the game environment in full 3D and with a greater degree of immersion than traditional 2D games. TriniusVR is compatible with a wide range of VR headsets and mobile devices, making it accessible to a broad audience. Overall, the ASMR Using VR project represents a unique and innovative approach to creating a relaxing and immersive experience for users. By combining technology, ASMR triggers, and a calming game environment, the project aims to promote relaxation and reduce stress in users, making it an ideal tool for both entertainment and therapy.
 
 ## Features
 - A VR environment that simulates a relaxing natural scene, such as a forest or beach
