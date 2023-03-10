@@ -18,6 +18,4 @@ ASMR triggers, such as whispering, tapping, and soft sounds, that are synchroniz
 - Connect your VR headset to your computer.
 - Run the project in Unity and enjoy the immersive ASMR experience.
 
-<a href="https://ibb.co/590S2Xy"><img src="https://i.ibb.co/RSFs7Gm/vr3.jpg" alt="vr3" border="0"></a>
-<a href="https://ibb.co/y49D5DW"><img src="https://i.ibb.co/XYQ9p9S/vr2.jpg" alt="vr2" border="0"></a>
 <a href="https://ibb.co/7VDnFK6"><img src="https://i.ibb.co/J2TvPHM/vr1.jpg" alt="vr1" border="0"></a><br />
